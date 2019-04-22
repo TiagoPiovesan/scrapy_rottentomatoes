@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.venv
+*.sqlite3
+*pyc
+__pycache__
+media
+uploads
+**/migrations/*.py
+!**/migrations/__init__.py
